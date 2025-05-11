@@ -50,5 +50,5 @@ Although still under development and potentially buggy, the app is functional an
 - **Remote Control Panel**  
   Manage playback remotely without touching the device running the app.
 
-- **Suitable Name**
+- **Suitable Name**  
   Seeing as this project is starting to get quite big and complicated, I'll need a (new) name for it.
